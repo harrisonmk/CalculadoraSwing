@@ -2,11 +2,11 @@
 
 Aplicacao Calculadora utilizada para fazer calculos numericos de largura infinita com as operações de "+" "*" "/" "-"
 
-#O que foi usado
+# O que foi usado
 
-*JAVA
-*Lista
-*Swing
+* JAVA
+* Lista
+* Swing
 
 
 
